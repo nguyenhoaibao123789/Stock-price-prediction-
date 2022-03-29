@@ -1,1 +1,15 @@
-zip ch? không rar
+docker
+ubuntu
+foxit reader
+java 8
+java SE dev kit 8 update 321
+sql server
+SSIS
+msteams
+vstudio
+vscode
+mongoDB
+powerBi desktop
+python
+vmware horizon client
+zalo
