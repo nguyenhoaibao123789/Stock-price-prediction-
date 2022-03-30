@@ -1,0 +1,12 @@
+function ClickConnect(){
+console.log("Working"); 
+document
+  .querySelector('#top-toolbar > colab-connect-button')
+  .shadowRoot.querySelector('#connect')
+  .click() 
+}
+setInterval(ClickConnect,60000)
+
+cd D:\yolov4-custom-functions
+hbox= head =1
+->delete all 0
