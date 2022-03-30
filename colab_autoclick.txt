@@ -6,7 +6,3 @@ document
   .click() 
 }
 setInterval(ClickConnect,60000)
-
-cd D:\yolov4-custom-functions
-hbox= head =1
-->delete all 0
